@@ -1,0 +1,35 @@
+.is-oval-white{
+    border-radius: 20px;
+    color: green;
+    padding-top: 8px;
+    padding-right: 60px;
+    padding-bottom: 8px;
+    padding-left: 60px;
+    margin-top: 50px;
+    margin-left: 50px;
+    border-color: green;
+}
+.is-round-green{
+    padding-top: 6px;
+    padding-right: 10px;
+    padding-bottom: 6px;
+    padding-left: 10px;
+    border-radius: 70%;
+    margin-left: 50px;
+    margin-top: 10px;
+    background-color: green;
+    color: white;
+    border-color: white;
+}
+.is-oval-blue{
+    padding-top: 10px;
+    padding-right: 50px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    margin-left: 50px;
+    margin-top: 10px;
+    background-color: blue;
+    color: white;
+    box-shadow: 5px 3px 3px black;
+    border-color: black;
+}
